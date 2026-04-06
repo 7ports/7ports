@@ -70,7 +70,7 @@ A hand-of-cards variant on 4×4 Tic-Tac-Toe with AI opponents across Easy, Mediu
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/7ports/project-pepper)
 [![URP](https://img.shields.io/badge/URP-000000?style=flat&logo=unity&logoColor=white)](https://github.com/7ports/project-pepper)
 
-[**GitHub →**](https://github.com/7ports/project-pepper) &nbsp;|&nbsp; `Alpha`
+[**GitHub →**](https://github.com/7ports/project-pepper) &nbsp;|&nbsp; [**Play on itch.io →**](https://sevenports.itch.io/x-o) &nbsp;|&nbsp; `Alpha`
 
 ---
 
@@ -97,7 +97,7 @@ Streams live AIS vessel positions from aisstream.io through a Node.js proxy on F
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://github.com/7ports/project-hammer)
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://github.com/7ports/project-hammer)
 
-[**GitHub →**](https://github.com/7ports/project-hammer) &nbsp;|&nbsp; `Prototype · Deploying to ferries.yyz.live`
+[**GitHub →**](https://github.com/7ports/project-hammer) &nbsp;|&nbsp; [**Live →**](https://ferries.yyz.live) &nbsp;|&nbsp; `Prototype`
 
 ---
 
